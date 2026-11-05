@@ -88,3 +88,30 @@ Ejecutar:
 
 UDPEmitter.java
 El emisor envía periódicamente alertas UDP.
+
+
+
+capturas de pantalla 
+<img width="905" height="199" alt="Captura de pantalla 2026-10-29 173835" src="https://github.com/user-attachments/assets/6e0dd74a-070a-4309-b305-a72326953485" />
+
+<img width="911" height="213" alt="Captura de pantalla 2026-10-29 180307" src="https://github.com/user-attachments/assets/45cebbab-e4fa-46e8-9b91-217000ae9933" />
+
+<img width="930" height="209" alt="Captura de pantalla 2026-10-29 180319" src="https://github.com/user-attachments/assets/0d6ef62b-0e4d-4930-b79c-b6d27dddc51b" />
+
+<img width="934" height="212" alt="Captura de pantalla 2026-10-29 180336" src="https://github.com/user-attachments/assets/00265877-9aa7-46d3-ac02-09e3124bcfc8" />
+
+<img width="940" height="215" alt="Captura de pantalla 2026-10-29 180657" src="https://github.com/user-attachments/assets/81caecc1-e4d1-4ff3-8edb-0abf6e13deab" />
+
+<img width="929" height="193" alt="Captura de pantalla 2026-10-29 180729" src="https://github.com/user-attachments/assets/84380d25-bcda-4b72-a52b-3658cc1a2623" />
+
+<img width="935" height="212" alt="Captura de pantalla 2026-10-29 180808" src="https://github.com/user-attachments/assets/a31a1817-d8f1-4860-9df0-b0f2d342ca66" />
+
+<img width="908" height="188" alt="Captura de pantalla 2026-10-29 180833" src="https://github.com/user-attachments/assets/56a9f27b-bf00-474a-b2eb-2049ee874d01" />
+<img width="929" height="197" alt="Captura de pantalla 2026-10-29 183403" src="https://github.com/user-attachments/assets/e5bbe3e2-d8d8-4713-b929-b9d599796cd2" />
+
+
+
+
+
+
+
