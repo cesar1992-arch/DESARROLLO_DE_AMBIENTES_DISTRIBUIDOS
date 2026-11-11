@@ -32,19 +32,12 @@ El servidor queda esperando conexiones en el puerto 5500.
 <img width="1874" height="651" alt="Captura de pantalla 2026-08-20 195402" src="https://github.com/user-attachments/assets/77b3318c-8c40-457a-a531-680446b37d64" />
 
 
-### Ejecución del Cliente
-
-
-### Ejecución del Cliente
-
 ### Cliente en ejecución
 ![Cliente](docs/Captura_de_panta_la_2026-08-20_183218.png)
 
->>>>>>> 3c9ec9e (Agrego TP2 con ClienteResiliente, ServidorInestable y README)
 Luego se debe ejecutar la clase `Cliente.java`.
 
 El Cliente solicita:
-[out](out)
 1. Primer número.
 2. Operación matemática.
 3. Segundo número.
@@ -82,9 +75,5 @@ El servidor se queda detenido en accept() hasta que un cliente intente conectars
 Mientras no haya conexión, el programa no avanza.
 
 `Socket socket = servidor.accept();`
-
-### Comunicación entre dos notebooks
-
-Para ejecutar el Cliente y el Servidor en diferentes notebooks conectadas a la misma red Wi-Fi, se debe reemplazar `localhost` en el Cliente por la dirección IP de la notebook donde se ejecuta el Servidor.
 
 También debe estar disponible el puerto 5500 y la comunicación no debe ser bloqueada por el firewall.
