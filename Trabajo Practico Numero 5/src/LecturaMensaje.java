@@ -1,4 +1,12 @@
-package PACKAGE_NAME;
+public class LecturaMensaje implements Mensaje {
 
-public class LecturaMensaje {
+    private final double valor;
+
+    public LecturaMensaje(double valor) {
+        this.valor = valor;
+    }
+
+    public double getValor() {
+        return valor;
+    }
 }
