@@ -33,31 +33,10 @@ Responsabilidades:
 - Procesar los mensajes en una cola FIFO (Mailbox).
 - Mantener de forma privada el contador de lecturas recibidas.
 - Calcular el promedio acumulado de los valores procesados.
-
----
-
-# Modelo de Comunicación
-
-La comunicación entre actores se realiza únicamente mediante mensajes inmutables.
-
-ActorSensor
-
-
-
-
-
-Actualización de Estado
-
----
-
+- 
 # Diagrama de Secuencia
 
-
-
-
-
-
-
+<img width="1536" height="1024" alt="Designer (8)" src="https://github.com/user-attachments/assets/688fb4a3-47db-47c4-a461-d5520db5daff" />
 
 
 # Operaciones del Modelo de Actores
@@ -140,6 +119,13 @@ Los resultados obtenidos demuestran el correcto funcionamiento del Modelo de Act
 CAPTURAS 
 
 1. Captura del inicio de ejecución.
+
+<img width="959" height="478" alt="Captura de pantalla 2026-11-17 202846" src="https://github.com/user-attachments/assets/926bf397-1322-4d87-aad4-ecf97b9a4259" />
+
 2. Captura del procesamiento de mensajes.
-3. Captura del resultado final.
-4. Captura del contador y promedio calculado.
+
+<img width="958" height="454" alt="Captura de pantalla 2026-11-17 202857" src="https://github.com/user-attachments/assets/5d5fa04d-18c4-435d-8cb1-edc1a84a23c1" />
+ 
+4. Captura del resultado final.
+5. Captura del contador y promedio calculado.
+<img width="956" height="487" alt="Captura de pantalla 2026-11-17 202916" src="https://github.com/user-attachments/assets/6840e6fb-c308-43b4-959a-f10263eab987" />
