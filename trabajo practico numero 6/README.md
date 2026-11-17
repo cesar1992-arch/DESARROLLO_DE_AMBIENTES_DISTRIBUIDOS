@@ -43,4 +43,23 @@ En un entorno productivo, estas excepciones **nunca deben ignorarse. Deben gesti
 1. Informar al usuario que el servicio no está disponible temporalmente.
 2. Implementar mecanismos de reintento (Retry) con un límite de intentos.
 3. Registrar el error en un archivo de log (Logging) para que el equipo de infraestructura pueda diagnosticar la caída del servidor.
-4. En sistemas más avanzados, derivar la petición a un servidor de respaldo (Failover).
+4. En sistemas más avanzados, derivar la petición a un servidor de respaldo.
+
+5. captura de pantalla
+
+<img width="944" height="176" alt="Captura de pantalla 2026-11-17 143725" src="https://github.com/user-attachments/assets/6d56dab5-1e69-4f38-912f-9983e1ea3f26" />
+
+
+<img width="948" height="229" alt="Captura de pantalla 2026-11-17 143922" src="https://github.com/user-attachments/assets/0cec26c4-d642-4cfb-9c95-28e5b234c267" />
+
+
+<img width="932" height="218" alt="Captura de pantalla 2026-11-17 144121" src="https://github.com/user-attachments/assets/26a2722d-e2b6-42ee-8f7a-a185284fdeb4" />
+
+
+<img width="959" height="437" alt="Captura de pantalla 2026-11-17 144248" src="https://github.com/user-attachments/assets/e4de8e32-3d4d-4b45-8b5e-665926229aa6" />
+
+
+<img width="958" height="152" alt="Captura de pantalla 2026-11-17 144314" src="https://github.com/user-attachments/assets/f1f03559-5cda-4788-b08c-aa7ae59c8226" />
+
+
+
